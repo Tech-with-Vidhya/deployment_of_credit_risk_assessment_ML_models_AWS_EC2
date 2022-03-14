@@ -6,4 +6,4 @@ Calculating a 3-digit credit score of an individual and the percentage of probab
 
 Tools & Technologies:
 
-Python, Flask, HTML, AWS, EC2, Linux Server and CLI
+Python, Flask, HTML, AWS, EC2, Linux Server, Linux Commands, Command Line Interface (CLI), IAM
